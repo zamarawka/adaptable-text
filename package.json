@@ -2,9 +2,7 @@
   "name": "adaptable-text",
   "version": "2.0.1",
   "description": "Adapt font size to a specified width.",
-  "main": "lib/adaptable-text.js",
-  "jsnext:main": "lib/adaptable-text.module.js",
-  "module": "lib/adaptable-text.module.js",
+  "main": "src/index.js",
   "license": "MIT",
   "repository": "https://github.com/dmnsgn/adaptable-text",
   "author": {
